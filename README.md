@@ -1,7 +1,7 @@
 # Ứng dụng từ bài: Làm quen môi trường Android
 <ul>
 Một số bài khác:
-<ul>
+</ul>
 Dạo quanh ứng dụng Android trong Android Studio 3.X: <a href="https://github.com/tiendatmagic/daoquanhandroid">Link</a>
 
 Thiết kế giao diện người dùng với công cụ thiết kế Android Studio 3.X: <a href="https://github.com/tiendatmagic/LayoutSample">Link</a>

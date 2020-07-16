@@ -20,18 +20,18 @@ Sự kiện và xử lý sự kiện trong Android:
 Phát hiện cử chỉ người dùng với lớp Android Gesture Detector: 
 <a href="https://github.com/tiendatmagic/CommonGestures">Link</a>
 
-      Fragments trong Android: 
+Fragments trong Android: 
 <a href="https://github.com/tiendatmagic/FragmentExample">Link</a>
 
-      Tạo và quản lý thực đơn tùy chọn (overflow menus) trong Android: 
+Tạo và quản lý thực đơn tùy chọn (overflow menus) trong Android: 
 <a href="https://github.com/tiendatmagic/Menu_example_android">Link</a>
 
-      Đối tượng Intent trong Android: 
+Đối tượng Intent trong Android: 
       
 <ul>
 	<a href="https://github.com/tiendatmagic/ExplicitIntent">Link Phần 1</a>
 	<a href="https://github.com/tiendatmagic/ImplicitIntent">Link Phần 2</a>
 	<a href="https://github.com/tiendatmagic/SendBroadcast">Link Phần 3</a>
 </ul>
-      Lập trình cơ sở dữ liệu Android với SQLite: 
+Lập trình cơ sở dữ liệu Android với SQLite: 
 <a href="https://github.com/tiendatmagic/SQLiteDemoApplication">Link</a>

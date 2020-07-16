@@ -42,3 +42,5 @@ Tạo và quản lý thực đơn tùy chọn (overflow menus) trong Android:
 
 Lập trình cơ sở dữ liệu Android với SQLite: 
 <a href="https://github.com/tiendatmagic/SQLiteDemoApplication"></a>
+
+© 2020 Copyright by Tiendatmagic - All Rights Reserved | Designed by Tiendatmagic

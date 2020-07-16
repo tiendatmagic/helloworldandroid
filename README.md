@@ -2,10 +2,13 @@
 
 Một số bài khác:
 ***
- Dạo quanh ứng dụng Android trong Android Studio 3.X: 
+Làm quen môi trường Android	: 
+<a href="https://github.com/tiendatmagic/helloworldandroid">Link</a>
+
+Dạo quanh ứng dụng Android trong Android Studio 3.X: 
 <a href="https://github.com/tiendatmagic/daoquanhandroid">Link</a>
 
- Thiết kế giao diện người dùng với công cụ thiết kế Android Studio 3.X: 
+Thiết kế giao diện người dùng với công cụ thiết kế Android Studio 3.X: 
 <a href="https://github.com/tiendatmagic/LayoutSample">Link</a>
 
 Thiết lập và nhận thông tin từ các Android views: 
@@ -14,7 +17,7 @@ Thiết lập và nhận thông tin từ các Android views:
 Sự kiện và xử lý sự kiện trong Android: 
 <a href="https://github.com/tiendatmagic/androidbasicview">Link</a>
 
- Sự kiện và xử lý sự kiện touch (chạm) và multi-touch (đa chạm) trong Android: 
+Sự kiện và xử lý sự kiện touch (chạm) và multi-touch (đa chạm) trong Android: 
 <a href="https://github.com/tiendatmagic/MotionEvent">Link</a>
 
 Phát hiện cử chỉ người dùng với lớp Android Gesture Detector: 

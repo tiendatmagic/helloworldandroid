@@ -2,9 +2,7 @@
 
 Một số bài khác:
 ***
-<a href="https://github.com/tiendatmagic/helloworldandroid">
-Làm quen môi trường Android	: 
-</a>
+<a href="https://github.com/tiendatmagic/helloworldandroid">Làm quen môi trường Android</a>
 
 Dạo quanh ứng dụng Android trong Android Studio 3.X: 
 <a href="https://github.com/tiendatmagic/daoquanhandroid">Link</a>

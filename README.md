@@ -1,4 +1,4 @@
-# Ứng dụng từ bài: Làm quen môi trường Android
+# Ứng dụng từ bài: <a href="https://github.com/tiendatmagic/helloworldandroid">Làm quen môi trường Android</a>
 
 Một số bài khác:
 ***

@@ -1,4 +1,4 @@
-# Ứng dụng từ bài: <a href="https://github.com/tiendatmagic/helloworldandroid">Làm quen môi trường Android</a>
+# Ứng dụng từ bài: <a href="https://ngocminhtran.com/2018/06/28/lap-trinh-android-dung-android-studio-3-x/">Làm quen môi trường Android</a>
 
 Một số bài khác:
 ***

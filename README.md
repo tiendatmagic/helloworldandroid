@@ -3,7 +3,7 @@
 Một số bài khác:
 ***
 <a href="https://github.com/tiendatmagic/helloworldandroid/tree/master/helloworldandroid-master">Làm quen môi trường Android</a>
-[Làm quen môi trường Android](https://github.com/tiendatmagic/helloworldandroid/tree/master/helloworldandroid-master)
+
 
 <a href="https://github.com/tiendatmagic/helloworldandroid/tree/master/daoquanhandroid-master">Dạo quanh ứng dụng Android trong Android Studio 3.X </a>
 

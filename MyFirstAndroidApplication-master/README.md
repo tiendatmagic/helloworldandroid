@@ -30,4 +30,4 @@ Một số bài khác:
 
 © 2020 Copyright by Tiendatmagic - All Rights Reserved | Designed by Tiendatmagic
 
-![image](tiendatmagicc.png)
+![image](./tiendatmagicc.png)

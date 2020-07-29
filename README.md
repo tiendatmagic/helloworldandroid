@@ -30,4 +30,4 @@ Một số bài khác:
 
 © 2020 Copyright by Tiendatmagic - All Rights Reserved | Designed by Tiendatmagic
 
-![image](https://cdn.glitch.com/a67afc81-5438-418b-a97b-7bb10c7d4cf4%2Ftiendatmagicc.png?v=1595986332429)
+![image](tiendatmagicc.png)

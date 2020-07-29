@@ -10,7 +10,7 @@ Một số bài khác:
 
 <a href="https://github.com/tiendatmagic/helloworldandroid/tree/master/MyFirstAndroidApplication-master">Thiết lập và nhận thông tin từ các Android views</a>
 
-<a href="https://https://github.com/tiendatmagic/helloworldandroid/tree/master/androidbasicview-master">Sự kiện và xử lý sự kiện trong Android</a>
+<a href="https://github.com/tiendatmagic/helloworldandroid/tree/master/androidbasicview-master">Sự kiện và xử lý sự kiện trong Android</a>
 
 <a href="https://github.com/tiendatmagic/helloworldandroid/tree/master/MotionEvent-master">Sự kiện và xử lý sự kiện touch (chạm) và multi-touch (đa chạm) trong Android</a>
 
